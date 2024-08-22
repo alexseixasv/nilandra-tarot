@@ -49,7 +49,7 @@
           </div>
         </div>
         <div class="relative mt-16 h-80 lg:mt-8">
-          <img class="absolute left-0 top-0 w-[57rem] max-w-none rounded-md bg-white/5 ring-1 ring-white/10" src="https://espacorecomecar.com.br/wp-content/uploads/2023/06/como-sao-feitos-trabalhos-espirituais-online.jpg" alt="App screenshot" width="1824" height="1080">
+          <img class="absolute left-0 top-0 w-[57rem] max-w-none rounded-md bg-white/5 ring-1 ring-white/10" src="../assets/trabalho-hoodoo.jpg" alt="App screenshot" width="1824" height="1080">
         </div>
       </div>
     </div>
@@ -169,7 +169,7 @@
               <a href="https://api.whatsapp.com/send?phone=5511937007820&text=Que+bom+que+chegou+at%C3%A9+aquihttps%3A%2F%2Fw.app%2FDHXmJz" target="_blank" class="rounded-md bg-purple-700 px-3.5 py-2.5 text-sm font-semibold text-white shadow-sm hover:bg-indigo-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-indigo-600">Agendar consulta</a>
           </div>
       </div>
-  </section>purple-700
+  </section>
 
 </template>
   
