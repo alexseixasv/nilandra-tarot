@@ -1,15 +1,19 @@
 <template>
-    <footer class="bg-purple-800 text-white py-6">
-      <div class="container mx-auto text-center">
-        <p class="mb-4">© 2024 Nilandra Tarot. Todos os direitos reservados.</p>
-        <div class="flex justify-center space-x-4">
-          <a href="#" class="hover:text-purple-400">Facebook</a>
-          <a href="#" class="hover:text-purple-400">Instagram</a>
-          <a href="#" class="hover:text-purple-400">Twitter</a>
-        </div>
-      </div>
-    </footer>
-  </template>
+  <footer class="relative bg-black text-white py-6">
+    <!-- Gradiente de fundo -->
+    <div class="absolute inset-0 -z-10 blur-2xl" aria-hidden="true">
+      <div class="absolute inset-0 bg-gradient-to-r from-[#ff80b5] to-[#9089fc] opacity-30"></div>
+    </div>
+    <div class="container mx-auto text-center relative z-10">
+      <p class="font-light">© 2024 Nilandra Tarot. Todos os direitos reservados.</p>
+    </div>
+  </footer>
+</template>
+
+
+
+
+
   
   <script>
   export default {
